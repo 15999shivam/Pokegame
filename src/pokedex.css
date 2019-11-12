@@ -1,0 +1,20 @@
+.pokedex {
+  margin-top: 1rem;
+  text-align: center;
+}
+.pokedex-cards {
+  display: flex;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+.pokedex-winner {
+  margin: 0rem;
+  color: forestgreen;
+}
+.pokedex-looser {
+  margin: 0rem;
+  color: red;
+}
+h4 {
+  margin: 0;
+}
